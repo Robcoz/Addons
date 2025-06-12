@@ -1,0 +1,19 @@
+[
+  {
+    "id": "Popular",
+    "name": "Popular TV Shows",
+    "category": "TV Shows",
+    "catalogIds": [],
+    "displayMode": "Grid",
+    "layout": "Landscape",
+    "backgroundImageURL": "https://i.ibb.co/67f2ZGpM/Chat-GPT-Image-Jun-12-2025-10-36-34-PM.jpg",
+    "iconName": "film",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "mediaTypeFilter": "All Content",
+    "textSize": "Large",
+    "textWeight": "Bold",
+    "textColor": "#FFFFFF",
+    "backgroundColor": "#000000"
+  }
+]
