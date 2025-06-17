@@ -1,6 +1,6 @@
 [
   {
-    "id": "Netflix",
+    "id": "Netflix Movies",
     "name": "Netflix MOVIE Collections",
     "category": "Movie Streaming Services",
     "catalogIds": [],
@@ -17,7 +17,7 @@
     "backgroundColor": "#000000"
   },
   {
-    "id": "DisneyPlus",
+    "id": "DisneyPlus Movies",
     "name": "Disney+ Movie Collections",
     "category": "Movie Streaming Services",
     "catalogIds": [],
@@ -34,7 +34,7 @@
     "backgroundColor": "#000000"
   },
   {
-    "id": "HBOMax",
+    "id": "HBOMax Movies",
     "name": "HBO Max Movie Collections",
     "category": "Movie Streaming Services",
     "catalogIds": [],
@@ -51,7 +51,7 @@
     "backgroundColor": "#000000"
   },
   {
-    "id":"Hulu",
+    "id":"Hulu Movies",
     "name": "Hulu Movie Collections",
     "category": "Movie Streaming Services",
     "catalogIds": [],
@@ -68,8 +68,8 @@
     "backgroundColor": "#000000"
   },
   {
-    "id": "Peacock",
-    "name": "Peacock Collections",
+    "id": "Peacock Movies",
+    "name": "Peacock Movies Collections",
     "category": "Movie Streaming Services",
     "catalogIds": [],
     "displayMode": "Grid",
@@ -85,8 +85,8 @@
     "backgroundColor": "#000000"
   },
   {
-    "id": "Showmax",
-    "name": "Showmax Collections",
+    "id": "Showmax Movies",
+    "name": "Showmax Movies Collections",
     "category": "Movie Streaming Services",
     "catalogIds": [],
     "displayMode": "Grid",
@@ -102,7 +102,7 @@
     "backgroundColor": "#000000"
   },
   {
-    "id": "AmazonPrime",
+    "id": "AmazonPrime Movies",
     "name": "Amazon Prime Movie Collections",
     "category": "Movie Streaming Services",
     "catalogIds": [],
@@ -119,7 +119,7 @@
     "backgroundColor": "#000000"
   },
   {
-    "id": "AppleTVPlus",
+    "id": "AppleTVPlus Movies",
     "name": "Apple TV+ Movie Collections",
     "category": "Movie Streaming Services",
     "catalogIds": [],
